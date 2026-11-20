@@ -2,8 +2,7 @@
 ### Register Number: 212225040211
 
 # EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-NAME : Lothika M
-REG.NO : 212225040211<img width="1917" height="815" alt="688495069-1aa4f5e9-d94b-4321-83c3-39b0f881c707" src="https://github.com/user-attachments/assets/14b3fef1-36e1-42d2-ab38-f47c22a3aef1" />
+<img width="1917" height="815" alt="688495069-1aa4f5e9-d94b-4321-83c3-39b0f881c707" src="https://github.com/user-attachments/assets/14b3fef1-36e1-42d2-ab38-f47c22a3aef1" />
 
 AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
